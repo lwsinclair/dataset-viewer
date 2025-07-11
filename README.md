@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/privetin-dataset-viewer-badge.png)](https://mseep.ai/app/privetin-dataset-viewer)
+
 # Dataset Viewer MCP Server
 
 An MCP server for interacting with the [Hugging Face Dataset Viewer API](https://huggingface.co/docs/dataset-viewer), providing capabilities to browse and analyze datasets hosted on the Hugging Face Hub.
